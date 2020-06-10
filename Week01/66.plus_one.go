@@ -11,6 +11,8 @@ func main() {
 	fmt.Println(plusOne(input[:]))
 }
 
+// TimeComplexity:  O(n)
+// SpaceComplexity: O(n) ???
 func plusOne(digits []int) []int {
 	for i := len(digits) - 1; i >= 0; i-- {
 		digits[i]++

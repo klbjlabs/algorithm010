@@ -1,10 +1,8 @@
 ## 作业
-[![](https://img.shields.io/badge/leetcode-242-orange?logo=leetcode&link=https%3A%2F%2Fopencollective.com%2Fshields&style=flat)](https://leetcode-cn.com/problems/valid-anagram/)
-[![](https://img.shields.io/badge/leetcode-49-orange?logo=leetcode&link=https%3A%2F%2Fopencollective.com%2Fshields&style=flat)](https://leetcode-cn.com/problems/group-anagrams/)
-
-[![](https://img.shields.io/badge/leetcode-144-orange?logo=leetcode&link=https%3A%2F%2Fopencollective.com%2Fshields&style=flat)](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)
-[![](https://img.shields.io/badge/leetcode-94-orange?logo=leetcode&link=https%3A%2F%2Fopencollective.com%2Fshields&style=flat)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
-[![](https://img.shields.io/badge/leetcode-145-orange?logo=leetcode&link=https%3A%2F%2Fopencollective.com%2Fshields&style=flat)](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+[![](https://img.shields.io/badge/leetcode-242-orange?logo=leetcode&style=flat)](https://leetcode-cn.com/problems/valid-anagram/)
+[![](https://img.shields.io/badge/leetcode-49-orange?logo=leetcode&style=flat)](https://leetcode-cn.com/problems/group-anagrams/) [![](https://img.shields.io/badge/leetcode-144-orange?logo=leetcode&style=flat)](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)
+[![](https://img.shields.io/badge/leetcode-94-orange?logo=leetcode&style=flat)](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+[![](https://img.shields.io/badge/leetcode-145-orange?logo=leetcode&style=flat)](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
 
 - [有效的字母异位词](./242.valid_anagram.go)
 - [字母异位词分组](./49.x.go)
